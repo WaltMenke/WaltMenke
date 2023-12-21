@@ -1,7 +1,7 @@
 - Hi, I’m @WaltMenke
 - I’m interested in utilizing Matlab and Python to help understand the biomechanics of humans and animals!
 - I’m looking to collaborate on graphical user interface projects involving biomechanics!
-- I’m currently learning the basics of Python in the hopes of utilizing machine learning and advanced statistical analysis techniques to help with my PhD work. 
+- I’m currently learning Python to utilize machine learning and advanced statistical analysis techniques to help with my PhD work. 
 - How to reach me (wmenke@vols.utk.edu)
 
 <!---
